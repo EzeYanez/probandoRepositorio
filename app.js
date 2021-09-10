@@ -1,9 +1,20 @@
 /* comandos para el git
 
+DENTRO DE LA CARPETA DESEADA
+----------------------------------
 git init = inicia el git en la carpeta que te encuentres
 git add = añade archivos
-git commit = confirma
+git commit = commitea los cambios hechos
+git status // realiza un seguimiento de los archivos 
+
 git log
+
+--------------------------------
+git add . (git add espacio punto) agrega todos los archivos
+git commit -m "mensaje" // comitea los cambios hechos
+git push origin master //envia los cambios al repositorio remoto
+git status // realiza un seguimiento de los estados de los archivos
+
 
 
 // COMANDOS MAS UTILIZADOS
